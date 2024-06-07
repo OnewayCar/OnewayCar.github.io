@@ -315,7 +315,7 @@ a:focus {
 .header .content-inner {
     padding: 100px 30px;
     background: url(../img/oneway.png) no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .header p {
